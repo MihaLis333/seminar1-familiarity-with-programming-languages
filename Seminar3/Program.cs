@@ -68,3 +68,21 @@ double bc2 = Math.Pow(bc, 2);
 
 
 Console.WriteLine($"{Math.Sqrt(ac2 + bc2)}"); */
+
+/* Task 22. Напишите программу, которая принимает на вход число (N) и выдаёт таблицу 
+квадратов чисел
+от 1 до N.
+5 -> 1, 4, 9, 16, 25.
+2 -> 1,4 */
+
+/*Console.Write("Input num: ");
+int num = int.Parse(Console.ReadLine());
+int count = 1;
+while (count <= num)
+{
+    int result = count * count;
+    Console.WriteLine(result);
+    count++;
+} */
+
+
